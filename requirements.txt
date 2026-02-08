@@ -1,0 +1,4 @@
+requests
+python-whois
+beautifulsoup4
+tqdm
