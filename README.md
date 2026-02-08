@@ -33,8 +33,8 @@ This tool:
 ## Quick Start
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/domain-finder-lost.git
-cd domain-finder-lost
+git clone https://github.com/DCSdevelop/domainFinderLost.git
+cd domainFinderLost
 
 # Install dependencies
 ./setup.sh
